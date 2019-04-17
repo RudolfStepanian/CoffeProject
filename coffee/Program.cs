@@ -14,16 +14,16 @@ namespace coffee
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to coffee machine" +
-            	"/n1.coffee - 100" +
-                "/n2.other coffe - 200" +
-                "/n3.another coffee - 300" +
-                "/n4.hot water - 50" +
-                "/n5.cup - 500" +
-                "/n6.dark coffe - 250" +
-                "/n7.lite coffe - 150" +
-                "/n8.milk - 100" +
-                "/n9.sugar water - 50" +
-                "/n10.darkest coffee - 400");
+            	"\n1.coffee - 100" +
+                "\n2.other coffe - 200" +
+                "\n3.another coffee - 300" +
+                "\n4.hot water - 50" +
+                "\n5.cup - 500" +
+                "\n6.dark coffe - 250" +
+                "\n7.lite coffe - 150" +
+                "\n8.milk - 100" +
+                "\n9.sugar water - 50" +
+                "\n10.darkest coffee - 400");
             int balance = 0;
             addBalance(ref balance);
             Console.WriteLine("your balance => " + balance);
@@ -292,19 +292,19 @@ namespace coffee
                 {
                     case 50:
                         balance += a;
-                        Console.WriteLine(balance);
+                        Console.WriteLine("your balance => " + balance);
                         break;
                     case 100:
                         balance += a;
-                        Console.WriteLine(balance);
+                        Console.WriteLine("your balance => " + balance);
                         break;
                     case 200:
                         balance += a;
-                        Console.WriteLine(balance);
+                        Console.WriteLine("your balance => " + balance);
                         break;
                     case 500:
                         balance += a;
-                        Console.WriteLine(balance);
+                        Console.WriteLine("your balance => " + balance);
                         break;
                     default:
                         Console.WriteLine("wrong coin");

@@ -19,3 +19,10 @@ C:/Users/Ani/Desktop/coffee/coffee/coffee/obj/Debug/coffee.pdb
 /Users/Apple/Desktop/coffee1/obj/Debug/coffee.csproj.CoreCompileInputs.cache
 /Users/Apple/Desktop/coffee1/obj/Debug/coffee.exe
 /Users/Apple/Desktop/coffee1/obj/Debug/coffee.pdb
+C:\Users\Ani\Desktop\CoffeProject-master\coffee\bin\Debug\coffee.exe.config
+C:\Users\Ani\Desktop\CoffeProject-master\coffee\bin\Debug\coffee.exe
+C:\Users\Ani\Desktop\CoffeProject-master\coffee\bin\Debug\coffee.pdb
+C:\Users\Ani\Desktop\CoffeProject-master\coffee\obj\Debug\coffee.csprojAssemblyReference.cache
+C:\Users\Ani\Desktop\CoffeProject-master\coffee\obj\Debug\coffee.csproj.CoreCompileInputs.cache
+C:\Users\Ani\Desktop\CoffeProject-master\coffee\obj\Debug\coffee.exe
+C:\Users\Ani\Desktop\CoffeProject-master\coffee\obj\Debug\coffee.pdb
